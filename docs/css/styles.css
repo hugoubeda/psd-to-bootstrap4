@@ -160,3 +160,7 @@ form input::placeholder, form textarea::placeholder  {
     color: #999999;
     font-size: 13px;
 }
+
+.bold {
+    font-weight: bold;
+}
