@@ -2,6 +2,10 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif !important;
 }
 
+a {
+    color: #e2494b !important;
+}
+
 #navbar li {
     margin: 1rem;
 }
@@ -16,7 +20,7 @@ body {
 }
 
 .red-button {
-    background-color: #e2494b;
+    background-color: #e2494b !important;
     border-radius: 10px; 
 }
 
@@ -110,7 +114,7 @@ body {
 }
 
 #footer {
-    background-color: #e2e2e2;
+    background-color: #e2e2e2 !important;
 }
 
 #footer h3 {
