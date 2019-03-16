@@ -15,7 +15,7 @@ body {
     color: #ee9395;
 }
 
-.navbar-nav {
+.red-button {
     background-color: #e2494b;
     border-radius: 10px; 
 }
@@ -65,4 +65,94 @@ body {
     height: 6px;
     background-color: white;
     border: 2px #353535 solid;
+}
+
+.title-button {
+    font-size: 20px;
+    position: relative;
+    top: -18px;
+    display: inline;
+    margin: 0 auto;
+    border-radius: 7px;
+}
+
+.title {
+    font-size: 20px !important;
+    margin-bottom: 0;
+    color: #999999;
+}
+
+.service-item p {
+    font-size: 14px;
+    color: #999999;
+}
+
+.service-item a {
+    color: #e2494b;
+    font-size: 14px;
+}
+
+.player-item {
+    color: #999999;
+}
+
+.player-item .name {
+    font-size: 13px;
+}
+
+.player-item .player-info {
+    font-size: 13px;
+}
+
+.player-item a {
+    color: #e2494b;
+    font-size: 14px;
+}
+
+#footer {
+    background-color: #e2e2e2;
+}
+
+#footer h3 {
+    font-size: 17px;
+}
+
+.latest-item-title {
+    color: #e2494b;
+    font-weight: bold;
+    font-size: 14px !important;
+}
+
+.latest-item-info {
+    color: #999999;
+    font-size: 13px;
+    text-justify: auto;
+}
+
+.company-details ul {
+    font-size: 13px;
+    color: #999999;
+    padding-left: 0;
+}
+
+
+.company-details ul li {
+    list-style: none;
+}
+
+.company-details ul li a {
+    color: #e2494b;
+}
+
+form input::placeholder, form textarea::placeholder  {
+    font-size: 14px;
+}
+
+.border-bottom-custom {
+    border-bottom: 1pt solid #989898;
+}
+
+.copyright {
+    color: #999999;
+    font-size: 13px;
 }
